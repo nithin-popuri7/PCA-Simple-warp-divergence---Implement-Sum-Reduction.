@@ -5,7 +5,7 @@ Refer to the kernel reduceUnrolling8 and implement the kernel reduceUnrolling16,
 To implement the kernel reduceUnrolling16 and comapare the performance of kernal reduceUnrolling16 with kernal reduceUnrolling8 using proper metrics and events with nvprof.
 
 ## Procedure:
-## Step 1 :
+Step 1 :
 Include the required files and library.
 
 ## Step 2 :
