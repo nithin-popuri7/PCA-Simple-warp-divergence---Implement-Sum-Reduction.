@@ -8,7 +8,7 @@ To implement the kernel reduceUnrolling16 and comapare the performance of kernal
 Step 1 :
 Include the required files and library.
 
-## Step 2 :
+### Step 2 :
 Introduce a function named 'recursiveReduce' to implement Interleaved Pair Approach and function 'reduceInterleaved' to implement Interleaved Pair with less divergence.
 
 ## Step 3 :
